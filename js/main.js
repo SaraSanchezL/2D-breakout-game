@@ -1,5 +1,6 @@
 const canvas = document.getElementById("myCanvas");
 const ctx = canvas.getContext("2d");
+
 let ballRadius = 10;
 let x = canvas.width / 2;
 let y = canvas.height - 30;

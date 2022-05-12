@@ -50,7 +50,3 @@
 
     - There's always room for improvements in any game we write. For example, we can offer more than one life to the player. They could make a mistake or two and still be able to finish the game. We could also improve our code rendering.
 
-#### To Do ✍️
-
-- add button to pause the game, or restart.
-- Review code and improvements.
